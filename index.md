@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 小蓝生活
 
 You can use the [editor on GitHub](https://github.com/1604780476/1604780476.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1604780476/1604780476.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 备案信息
 
-Having trouble with Pages? Check out our [粤ICP备2021102071](https://beian.miit.gov.cn/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[粤ICP备2021102071](https://beian.miit.gov.cn/) 
